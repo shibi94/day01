@@ -12,7 +12,7 @@ let r1=new car("audi",2019,"black"); //const instiallization-adding the value
 let r2=new car("benz",2018,"white");  //next refernce values 
 console.log(r1.name); 
 console.log(r2.name,r2.year,r2.color);
-
+*/
 //method 
 class book
 {
